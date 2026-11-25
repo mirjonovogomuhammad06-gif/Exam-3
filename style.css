@@ -194,3 +194,60 @@ font-size: 42px;
 .left3 button{
     margin-top: 40px;
 }
+.section5{
+    background-color: rgba(255, 212, 164, 1);
+    height: 864px;
+    margin-top: 200px;
+}
+.box_in_section5{
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    padding-top: 200px;
+}
+.text1{
+    display: flex;
+    text-align: start;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.text1 h4{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.text1 p{
+    font-size: 18px;
+}
+.box_in_section5 h2{
+    font-size: 42px;
+    margin-top: 20px;
+    margin-bottom: 38px;
+}
+.box_in_section5 h5{
+    font-size: 20px;
+}
+.bt1{
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 18px;
+    color: white;
+    padding: 18px 25px;
+}
+.bt2{
+border: none;
+background-color: white;
+color: black;
+font-size: 18px;
+border-radius: 10px;
+padding: 18px 25px;
+}
+.text_in_text1{
+    width: 42%;
+}
+.buttons2{
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+    margin-bottom: 70px;
+}
