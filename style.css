@@ -2,3 +2,34 @@
     margin: 0;
     padding: 0;
 }
+.header{
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.left{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.left a{
+    font-size: 17px;
+    color: rgba(9, 9, 9, 1);
+    text-decoration: none;
+
+}
+.bt_in_header{
+    border: none;
+    background-color: rgb(255, 156, 8);
+    color: black;
+    border-radius: 10px;
+    padding: 18px 25px;
+}
+.right{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
