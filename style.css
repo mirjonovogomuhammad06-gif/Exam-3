@@ -291,8 +291,8 @@ padding: 18px 25px;
 }
 .bottom{
     display: flex;
-    flex-wrap: wrap;
-    margin-top: 60px;
+    
+    margin-top: 30px;
     gap: 26px;
 }
 .section7{
