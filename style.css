@@ -9,6 +9,11 @@ p{
 h1,h2,h3,h4{
     font-family: roboto;
 }
+.hr{
+    margin-top:20px ;
+   
+   
+}
 .header{
     display: flex;
     align-items: center;
