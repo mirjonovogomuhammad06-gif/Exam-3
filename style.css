@@ -4,7 +4,10 @@
 }
 p{
     color: rgba(110, 110, 110, 1);
-    
+    font-family: sans-serif;
+}
+h1,h2,h3,h4{
+    font-family: roboto;
 }
 .header{
     display: flex;
